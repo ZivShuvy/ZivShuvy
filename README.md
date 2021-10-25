@@ -1,5 +1,5 @@
 # Hi there! 👋
-My name is Ziv and I'm a junior Full-Stack / Front-End Web Developer. 
+My name is Ziv and I'm a junior Full-Stack / Front-End Web Developer.   
 Check out my latest project: [Swello - a Trello Clone](https://swello.herokuapp.com/).
 ## Contact me:  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zivshuvy121@gmail.com)](mailto:zivshuvy121@gmail.com)
