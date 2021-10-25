@@ -9,7 +9,6 @@ Check out my latest project: [Swello - a Trello Clone](https://swello.herokuapp.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-181717?style=flat-square&logo=redux)
-![Vue](https://img.shields.io/badge/-vue-white?style=flat-square&logo=vue)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
 ![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs)
 ![SCSS](https://img.shields.io/badge/-SCSS-purple?style=flat-square&logo=scss)
